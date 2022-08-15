@@ -37,3 +37,5 @@ if (!flagWin)
 {
     Console.WriteLine("Мы проиграли. Число было "+ secretNumber);
 }
+
+// ---
